@@ -11,3 +11,4 @@ To solve this efficiency problem, this study evaluates three distinct proposed m
 By systematically ablating the cross-attention module's location within the Fairseq framework, the experiment pinpoints the exact stage of linguistic abstraction where visual information provides the greatest benefit. We will evaluate these configurations across two main dimensions: overall translation fluency, measured by standard BLEU scores, and precise visual disambiguation capabilities, rigorously tested through the CoMMuTE framework. Finally, we will compare the convergence rates and parameter efficiency of Models A, B, and C against a heavy, full-fusion baseline. Ultimately, this work provides strong empirical evidence for designing a lightweight, highly efficient MMT architecture without sacrificing robust multimodal alignment.
 
 
+Presentation youtube link: https://youtu.be/BJ53RC1IbsA
