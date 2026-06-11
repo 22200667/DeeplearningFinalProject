@@ -1,6 +1,6 @@
 # DeeplearningFinalProject
 
-Student name: Seonggu Jeong 
+Student name: Seonggu Jeong 22200667
 
 
 Title: Research for multimodal fusion 
